@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChatAppVistula</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot_my_password">Forgot My Password</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_email_address">Enter Your Email Address</string>
+    <string name="log_in">Log In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="enter_with_another_method">Enter With Another Method</string>
+    <string name="enter_with_phone">Enter With Phone</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="i_have_already_account">I Have Already Account</string>
+    <string name="find_friend">Find Friend</string>
+    <string name="options">Options</string>
+    <string name="log_out">Log Out</string>
+    <string name="sign_in_with_phone">Sign in With Phone</string>
+    <string name="create_group">Create Group</string>
+</resources>

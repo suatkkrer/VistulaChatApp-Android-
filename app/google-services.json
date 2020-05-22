@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851431477141",
+    "firebase_url": "https://chatappvistula.firebaseio.com",
+    "project_id": "chatappvistula",
+    "storage_bucket": "chatappvistula.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851431477141:android:351fa87e16d2605768f09c",
+        "android_client_info": {
+          "package_name": "com.example.chatappvistula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851431477141-su16ajvd8rpdad4u6gccjlsunf24t673.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatappvistula",
+            "certificate_hash": "ce69de50c9f5a389a49d7461e7d5d42bcc131eae"
+          }
+        },
+        {
+          "client_id": "851431477141-sbf8u1g8a2eiatrbqgg37m0nt3patf4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3XkZnQ_SIW4ygC9N-Xlw6oFpFlscRL04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851431477141-sbf8u1g8a2eiatrbqgg37m0nt3patf4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
